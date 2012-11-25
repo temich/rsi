@@ -1,0 +1,18 @@
+{
+	"name"          : "rsi",
+	"version"       : "0.1.0",
+	"description"   : "Representation State Identification",
+	"author"        : {
+		"name": "Artem Gurtovoy",
+		"email": " <tema.gurtovoy@gmail.com>"
+	},
+	"repositiry"    : {
+		"type": "git",
+		"url": "https://github.com/temich/rsi.git"
+	},
+	"dependencies"	: {
+		"async": "0.1",
+		"memorystream": "0.2",
+		"temp": "0.4"
+	}
+}
