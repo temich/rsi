@@ -1,6 +1,6 @@
 {
 	"name"          : "rsi",
-	"version"       : "0.2.0",
+	"version"       : "0.2.1",
 	"description"   : "Representation State Identification",
 	"author"        : {
 		"name": "Artem Gurtovoy",
